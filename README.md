@@ -40,7 +40,7 @@ Welcome to an in-depth guide on HTML and CSS! This document will cover everythin
 9. [CSS Flexbox](#css-flexbox)
 10. [CSS Grid](#css-grid)
 11. [Conclusion](#conclusion)
-12. [Conect with me](#Conect-with-me)
+12. [Connect with me](#Connect-with-me)
 
 ## Introduction to HTML
 
