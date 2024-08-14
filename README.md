@@ -40,6 +40,7 @@ Welcome to an in-depth guide on HTML and CSS! This document will cover everythin
 9. [CSS Flexbox](#css-flexbox)
 10. [CSS Grid](#css-grid)
 11. [Conclusion](#conclusion)
+12. [conect with me](#conect-with-me)
 
 ## Introduction to HTML
 
@@ -410,6 +411,17 @@ CSS Grid is a layout system optimized for 2D layout, offering greater control ov
 ## Conclusion
 
 This comprehensive guide should provide you with a solid foundation in HTML and CSS. Continue practicing by building more complex layouts and experimenting with advanced techniques.
+
+## Connect with Me
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- [GitHub](https://github.com/kashyaptushar1)
+- [Instagram](https://instagram.com/i_am_tushar2709)
+- [LeetCode](https://leetcode.com/u/Pro_tushar/)
+
+
+---
 
 Feel free to fork this repository, add your custom styles, and create unique webpages that showcase your skills!
 
