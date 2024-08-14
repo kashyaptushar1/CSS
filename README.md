@@ -1,10 +1,8 @@
-Certainly! Below is an extended and more detailed GitHub README that goes deeper into HTML and CSS concepts, including examples and explanations for various elements and properties.
 
----
 
-# HTML & CSS Comprehensive Guide
+# HTML & CSS Comprehensive Guide by tushar kashyap
 
-Welcome to an in-depth guide on HTML and CSS! This document will cover everything from basic HTML structure to advanced CSS techniques. Whether you're just starting or looking to refine your skills, this guide is for you.
+ Welcome to an in-depth guide on HTML and CSS! This document will cover everything from basic HTML structure to advanced CSS techniques. Whether you're just starting or looking to refine your skills, this guide is for you.
 
 ## Table of Contents
 
