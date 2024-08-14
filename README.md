@@ -415,13 +415,5 @@ Feel free to fork this repository, add your custom styles, and create unique web
 
 ---
 
-**Happy coding!** 🎉
 
----
-
-For further learning, explore resources like [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) and [CSS-Tricks](https://css-tricks.com/).
-
----
-
-This README covers a wide range of topics, giving you a robust understanding of how to create and style webpages with HTML and CSS.
 
