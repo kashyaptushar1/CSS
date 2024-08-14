@@ -39,9 +39,7 @@ Welcome to an in-depth guide on HTML and CSS! This document will cover everythin
    - [Sticky Positioning](#sticky-positioning)
 9. [CSS Flexbox](#css-flexbox)
 10. [CSS Grid](#css-grid)
-11. [Responsive Design](#responsive-design)
-12. [Advanced CSS Techniques](#advanced-css-techniques)
-13. [Conclusion](#conclusion)
+11. [Conclusion](#conclusion)
 
 ## Introduction to HTML
 
@@ -407,88 +405,7 @@ CSS Grid is a layout system optimized for 2D layout, offering greater control ov
 - `grid-template-columns`: Defines the number and size of columns.
 - `gap`: Specifies the spacing between grid items.
 
-## Responsive Design
 
-Responsive design ensures your webpage looks good on all devices. This is achieved using media queries.
-
-### Example:
-
-```css
-@media (max-width: 600px) {
-    body {
-        background-color: lightgreen;
-    }
-}
-```
-
-### Explanation:
-
-- `@media`: A rule that applies styles based on the viewport width.
-- `max-width`: Specifies the maximum width for the rule to apply.
-
-## Advanced CSS Techniques
-
-### CSS Variables
-
-CSS variables (custom properties) allow you to store values that can be reused throughout a document.
-
-```css
-:root {
-    --primary-color: #3498db;
-}
-
-body {
-    color: var(--primary-color);
-}
-```
-
-### Pseudo-Classes
-
-Pseudo-classes target elements in a specific state, such as `:hover` or `:nth-child`.
-
-```css
-a:hover {
-    color: red;
-}
-
-li:nth-child(odd) {
-    background-color: lightgray;
-}
-```
-
-### Transitions and Animations
-
-CSS transitions and animations bring life to your web elements.
-
-#### Transition Example:
-
-```css
-.button {
-    background-color: blue;
-    transition: background-color 0.3s;
-}
-
-.button:hover {
-    background-color: red;
-}
-```
-
-#### Animation Example:
-
-```css
-@keyframes slide {
-    from {
-        transform: translateX(0);
-    }
-    to {
-        transform: translateX(100px);
-    }
-}
-
-.box {
-    animation: slide 2s infinite;
-}
-```
 
 ## Conclusion
 
